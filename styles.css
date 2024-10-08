@@ -37,7 +37,8 @@ nav a[aria-current='page'] {
 }
 
 main {
-  padding: 1rem;
+  padding: 100px;
+  padding-inline: 20px;
 }
 
 h1 {
